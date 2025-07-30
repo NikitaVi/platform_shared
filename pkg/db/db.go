@@ -32,6 +32,7 @@ type Transactor interface {
 // NamedExecer + QueryExecer
 type SQLExecer interface {
 	NamedExecer
+	QueryExecer
 }
 
 // Интерфейс для рботы с именнованными запросами с помощью тегов в структурах
