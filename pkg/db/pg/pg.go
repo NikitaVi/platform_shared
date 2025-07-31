@@ -3,7 +3,7 @@ package pg
 import (
 	"context"
 	"fmt"
-	"github.com/NikitaVi/platfor_shared/pkg/db"
+	"github.com/NikitaVi/platform_shared/pkg/db"
 	"github.com/georgysavva/scany/pgxscan"
 	"github.com/jackc/pgconn"
 	"github.com/jackc/pgx/v4"

@@ -2,8 +2,8 @@ package transaction
 
 import (
 	"context"
-	"github.com/NikitaVi/platfor_shared/pkg/db"
-	"github.com/NikitaVi/platfor_shared/pkg/db/pg"
+	"github.com/NikitaVi/platform_shared/pkg/db"
+	"github.com/NikitaVi/platform_shared/pkg/db/pg"
 	"github.com/jackc/pgx/v4"
 	"github.com/pkg/errors"
 )

@@ -2,7 +2,7 @@ package pg
 
 import (
 	"context"
-	"github.com/NikitaVi/platfor_shared/pkg/db"
+	"github.com/NikitaVi/platform_shared/pkg/db"
 	"github.com/jackc/pgx/v4/pgxpool"
 )
 
